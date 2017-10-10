@@ -1,0 +1,59 @@
+<?xml version="1.0" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="file:///D:/Program Files/Analog Devices/VisualDSP 5.0/System/linker_log.xsl"?>
+<DOCUMENT gen_time='Tue May 12 09:44:16 2015
+'>
+<MSG id='0321B860' mid='li2153' type='Warning' suppressed=''>
+<TEXT><![CDATA[Input sections have inconsistent qualifiers as follows.
+unknown   | .\Debug\ASLC.doj(program)
+unknown   | .\Debug\add_zhentou.doj(program)
+DOUBLEANY | ts_hdr_TS201.doj(ctor0)
+DOUBLEANY | ts_hdr_TS201.doj(data1)
+DOUBLEANY | ts_hdr_TS201.doj(data2)
+DOUBLEANY | ts_hdr_TS201.doj(heaptab)
+DOUBLEANY | ts_hdr_TS201.doj(program)
+unknown   | .\Debug\asmdelay.doj(program)
+unknown   | .\Debug\bh_sin6.doj(program)
+unknown   | .\Debug\can.doj(program)
+unknown   | .\Debug\cfar_zijian.doj(program)
+unknown   | .\Debug\config.doj(data)
+unknown   | .\Debug\config.doj(data10a)
+unknown   | .\Debug\config.doj(data10b)
+unknown   | .\Debug\config.doj(data2a)
+unknown   | .\Debug\config.doj(data2b)
+unknown   | .\Debug\config.doj(data4a)
+unknown   | .\Debug\config.doj(data4b)
+unknown   | .\Debug\config.doj(data6a)
+unknown   | .\Debug\config.doj(data6b)
+unknown   | .\Debug\config.doj(data8a)
+unknown   | .\Debug\config.doj(data8b)
+unknown   | .\Debug\dong_mu_biao_quancheng.doj(program)
+unknown   | .\Debug\initial_dsp.doj(program)
+unknown   | .\Debug\jiance_FPGA.doj(program)
+DOUBLE32  | .\Debug\LION_TS201_Lib.doj(data1)
+DOUBLE32  | .\Debug\LION_TS201_Lib.doj(program)
+unknown   | .\Debug\main_asm.doj(program)
+DOUBLE32  | .\Debug\main_c.doj(program)
+unknown   | .\Debug\pinlvjiebian_zijian.doj(program)
+unknown   | .\Debug\PRI_int.doj(program)
+unknown   | .\Debug\sun.doj(program)
+unknown   | .\Debug\wait_pri.doj(program)
+DOUBLEANY | meminit_ts20x.doj(bsz_init)
+DOUBLEANY | meminit_ts20x.doj(ctor4)
+DOUBLEANY | meminit_ts20x.doj(program)
+DOUBLEANY | ts_exit_TS201.doj(ctorl)
+DOUBLEANY | ts_exit_TS201.doj(data1)
+DOUBLEANY | ts_exit_TS201.doj(data2)
+DOUBLEANY | ts_exit_TS201.doj(heaptab)
+DOUBLEANY | ts_exit_TS201.doj(program)
+DOUBLEANY | libc_TS201.dlb[getargv_rev12.doj](data1)
+DOUBLEANY | libc_TS201.dlb[getargv_rev12.doj](program)
+DOUBLEANY | libc_TS201.dlb[_floatdisf_rev12.doj](program)
+DOUBLEANY | libc_TS201.dlb[_floatunsdisf_rev12.doj](program)
+DOUBLEANY | libc_TS201.dlb[_umodsi3_rev12.doj](program)
+DOUBLEANY | libcpprt_TS201.dlb[dtor_list_c_rev12.doj](data1)
+DOUBLEANY | libcpprt_TS201.dlb[dtor_list_c_rev12.doj](program)]]></TEXT>
+</MSG>
+<MSG id='0321B930' mid='li2200' type='Warning' suppressed=''>
+<TEXT><![CDATA[Unable to find global symbol '__sw_handler_ctor' specified in keep list of processor 'P0']]></TEXT>
+</MSG>
+</DOCUMENT>
